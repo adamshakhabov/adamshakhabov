@@ -1,6 +1,6 @@
 **Hey, I'm Adam!** 👋
 
-I'm a Software Engineer.
+I'm a Software Engineer and do open source for fun. If you have a question, feature suggestion, or a bug report for the [ShapeCrawler ](https://github.com/ShapeCrawler/ShapeCrawler) project, please open an [issue](https://github.com/ShapeCrawler/ShapeCrawler/issues).📫
 
 <!--
 **adamshakhabov/adamshakhabov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
