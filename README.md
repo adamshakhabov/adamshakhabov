@@ -1,6 +1,6 @@
 **Hey, I'm Adam!** 👋
 
-I'm a Software Engineer and do open source for fun. If you have a question, feature suggestion, or a bug report for the [ShapeCrawler ](https://github.com/ShapeCrawler/ShapeCrawler) project, please open an [issue](https://github.com/ShapeCrawler/ShapeCrawler/issues).📫
+I'm the author and maintainer of the [ShapeCrawler ](https://github.com/ShapeCrawler/ShapeCrawler) project, a .NET library for manipulating PowerPoint presentations, which I've been working on for free, in my spare time, for the last 2 years.
 
 <!--
 **adamshakhabov/adamshakhabov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
