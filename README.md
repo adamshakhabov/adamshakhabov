@@ -1,6 +1,6 @@
 **Hey, I'm Adam!** 👋
 
-I'm the author and maintainer of the [ShapeCrawler ](https://github.com/ShapeCrawler/ShapeCrawler) project, a .NET library for manipulating PowerPoint presentations, which I've been working on for free, in my spare time, for the last 2 years.
+I'm the author and maintainer of the [ShapeCrawler ](https://github.com/ShapeCrawler/ShapeCrawler) project, a .NET library for manipulating PowerPoint presentations, which I've been working on for free, in my spare time, for the last 2 years. You can hire me if your product related to processing PowerPoint presentations or other Microsoft Office documents:)
 
 <!--
 **adamshakhabov/adamshakhabov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
